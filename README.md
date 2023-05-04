@@ -1,10 +1,10 @@
-ISPC02
+# Higher Polytechnic Institute of Córdoba (ISPC)
 
+### Task Nº 2
 
-
-Utilizando bootstrap, configura el sitio web creado en la actividad anterior, a fin de que sea web responsive. El mismo además, deberá contener:
-una barra de navegación que permita movernos por las páginas web del sitio,
-un formulario de contacto (el mismo deberá incluir validaciones obligando que el usuario ingrese los datos obligatorios: apellido y nombre, mail y mensaje) y, verificar que el mail tenga el formato correcto.
+Using bootstrap, configure the website created in the previous activity, so that it is web responsive. It must also contain:
+- A navigation bar that allows us to move through the web pages of the site,
+- A contact form (it must include validations forcing the user to enter the mandatory data: last name and first name, email and message) and verify that the email has the correct format.
 
 Se valorará:
 inclusión de todos los items mencionados en la consigna
