@@ -6,10 +6,10 @@ Using bootstrap, configure the website created in the previous activity, so that
 - A navigation bar that allows us to move through the web pages of the site,
 - A contact form (it must include validations forcing the user to enter the mandatory data: last name and first name, email and message) and verify that the email has the correct format.
 
-Se valorará:
-inclusión de todos los items mencionados en la consigna
-aplicación de los contenidos teóricos desarrollados
-creatividad en la implementación de la actividad 
-funcionalidad del sitio web responsive solicitado
-coherencia
-prolijidad
+It will be valued:
+- Inclusion of all items mentioned in the consignment
+- Application of the theoretical contents developed
+- Creativity in the implementation of the activity
+- Requested responsive website functionality
+- Coherence
+- Prolixity
